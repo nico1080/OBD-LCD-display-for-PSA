@@ -18,3 +18,11 @@ I also implemented "screen sequence " but I don't realy use it
 - A last long press will make you go back seq 0
 
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
+
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen 0 init.jpg.jpg)
+
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
