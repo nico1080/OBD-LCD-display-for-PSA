@@ -1,14 +1,13 @@
 # OBD-LCD-display-for-PSA
 LCD display to show vehicle data on PSA cars
 
-
-Display various data from OBD port on LCD (you need correct adress from diagbox, see mine in github https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/adress-database.ods)
-
 I use it on a 2016 DS4: https://www.drive2.ru/r/citroen/ds4/609447751477897832/
 - Engine ECU: MEVD17_4_4
 - Tyre pressure ECU: DSG_UDS
 - BSI2010 for other things
 
+
+Display various data from OBD port on LCD (you need correct adress from diagbox, see mine in github https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/adress-database.ods)
 
 - Various screens are available
 - LCD backlight brightness is adjusted depending of sate of car  lightening (day/night/black panel mode). Each screens can have specific value
