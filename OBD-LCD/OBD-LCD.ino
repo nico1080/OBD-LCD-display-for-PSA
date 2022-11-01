@@ -9,7 +9,7 @@
 //The function of this sktech:
 
 //Display various data from OBD port on LCD (you need correct adress from diagbox)
-//Various screen are available
+//Various screens are available
 //LCD backlight brightness is adjusted depending on sate of car  lightening (day/night/black panel mode). Each screen can have specific value
 //To change screen you need to press the "Return" button on wheel (bottom right)
 //At startup it display the init (0) screen for 10s (typre pressure oil level etc)
@@ -990,8 +990,8 @@ void loop() {
     tft.setTextColor(TFT_CYAN, TFT_BLACK); //tft.setCursor(0 + 10, 160+27, 1);  tft.setTextSize(2); tft.print(buf);//tft.print(Text,1);
     tft.setTextSize(1); tft.drawRightString("---", 0 + 120, 0 + 25, 7);
     }
-    
-    
+
+
 
     // FuelTrip1
     //FuelTrip1=15.6;
