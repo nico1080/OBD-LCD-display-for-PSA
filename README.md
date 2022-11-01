@@ -17,10 +17,20 @@ I also implemented "screen sequence " but I don't realy use it
 - Same thing for sequence 2 (screen 200 & 201)
 - A last long press will make you go back seq 0
 
+in car with init screen:
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
 
+Init screen with tyre pressure/temperature, oil level battery state etc
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen0.jpg)
+
+Temperature screen (1)
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen1.jpg)
+
+Air screen (2)
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen2.jpg)
+
+Battery screen (need some work ! )
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen3.jpg)
+
+Fuel / power screen
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen4.jpg)
