@@ -17,10 +17,12 @@ I also implemented "screen sequence " but I don't realy use it
 - Same thing for sequence 2 (screen 200 & 201)
 - A last long press will make you go back seq 0
 
-For Hardware you will needed//Hardware:
-- Arduino
+For Hardware you will need:
+- Arduino (I used nano)
 - MCP2515 can module
 - TFT_ILI9341 3.2 LCD display
+- OBD 16 pin connector
+- 5V power supply
 
 
 I also 3D printed a case for the electronic but my design is not perfect
