@@ -16,3 +16,6 @@ I also implemented "screen sequence " but I don't realy use it
 - if you do a long press you will go to screen 100 (sequence 0-->1) a short press will make you change screen in this sequence 100-->101-->100
 - Same thing for sequence 2 (screen 200 & 201)
 - A last long press will make you go back seq 0
+
+
+https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg
