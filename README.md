@@ -17,5 +17,4 @@ I also implemented "screen sequence " but I don't realy use it
 - Same thing for sequence 2 (screen 200 & 201)
 - A last long press will make you go back seq 0
 
-
-https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
