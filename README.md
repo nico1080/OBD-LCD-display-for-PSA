@@ -20,3 +20,7 @@ I also implemented "screen sequence " but I don't realy use it
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/view.jpg)
 
 ![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen0.jpg)
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen1.jpg)
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen2.jpg)
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen3.jpg)
+![alt text](https://github.com/nico1080/OBD-LCD-display-for-PSA/blob/main/picture/screen/screen4.jpg)
