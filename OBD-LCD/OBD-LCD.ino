@@ -65,7 +65,7 @@
 //TFT_ST7735 tft = TFT_ST7735();  // Invoke library, pins defined in User_Setup.h
 
 
-#include <TFT_ILI9341.h> // Hardware-specific library      https://github.com/Bodmer/TFT_ILI9341
+#include <TFT_ILI9341.h> // Hardware-specific library      https://github.com/nico1080/TFT_ILI9341_LIGHT
 TFT_ILI9341 tft = TFT_ILI9341();       // Invoke custom library   --> modify 7seg to add "-" char and comment unused font to save space
 
 
